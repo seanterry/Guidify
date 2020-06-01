@@ -18,7 +18,7 @@ indent_size = 2
 
 # C# files
 [*.cs]
-file_header_template = Copyright (c) 2020 Sean Terry (seanterry@outlook.com)\rThis file is licensed to you under the MIT license.\nSee the LICENSE file in the project root for more information.
+file_header_template = Copyright (c) 2020 Sean Terry (seanterry@outlook.com).\nThis file is licensed to you under the MIT license.\nSee the LICENSE file in the project root for more information.
 dotnet_diagnostic.IDE0073.severity = warning
 
 #### Core EditorConfig Options ####
